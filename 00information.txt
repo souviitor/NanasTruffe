@@ -1,0 +1,16 @@
+Nana's Truffles
+
+Criar um app pra minha mãe, controlar a entrada e saída das trufas que ela vende.
+	-> Inclusão das trufas (Colocar um seletor de sabores que ela já faz)
+
+	-> Exclusão das trufas (Dar saída nas trufas vendidas, tb com seletor de qual
+    sabor saiu e fazer a subtração dela no estoque)
+
+	-> Controle de estoque (Quando atingir um estoque de emergencia alerta-la para
+    produzir mais e mostrar um relatório de qual precisa ser feito)
+
+	-> Relatório de vendas (Quantas trufas foram vendidas e qual o sabor que mais
+    vendeu)
+    
+	-> Controle de credores (Mostras quem e quanto está devendo para fazer a cobran
+    ça talvez mostrar quais foram as trufas que foram pegas e em quais dias foram)
